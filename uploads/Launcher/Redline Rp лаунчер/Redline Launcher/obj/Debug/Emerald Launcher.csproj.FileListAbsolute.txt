@@ -1,0 +1,91 @@
+D:\Emerald\Emerald Launcher\Emerald Launcher\bin\Debug\Emerald Launcher.exe.config
+D:\Emerald\Emerald Launcher\Emerald Launcher\bin\Debug\Emerald Launcher.exe
+D:\Emerald\Emerald Launcher\Emerald Launcher\bin\Debug\Emerald Launcher.pdb
+D:\Emerald\Emerald Launcher\Emerald Launcher\bin\Debug\Guna.UI.dll
+D:\Emerald\Emerald Launcher\Emerald Launcher\obj\Debug\Emerald Launcher.csprojAssemblyReference.cache
+D:\Emerald\Emerald Launcher\Emerald Launcher\obj\Debug\Emerald_Launcher.Form1.resources
+D:\Emerald\Emerald Launcher\Emerald Launcher\obj\Debug\Emerald_Launcher.Properties.Resources.resources
+D:\Emerald\Emerald Launcher\Emerald Launcher\obj\Debug\Emerald Launcher.csproj.GenerateResource.cache
+D:\Emerald\Emerald Launcher\Emerald Launcher\obj\Debug\Emerald Launcher.csproj.CopyComplete
+D:\Emerald\Emerald Launcher\Emerald Launcher\obj\Debug\Emerald Launcher.exe
+D:\Emerald\Emerald Launcher\Emerald Launcher\obj\Debug\Emerald Launcher.pdb
+D:\Emerald\Emerald Launcher\Emerald Launcher\bin\Debug\JetBrains.Annotations.dll
+D:\Emerald\Emerald Launcher\Emerald Launcher\bin\Debug\Newtonsoft.Json.dll
+D:\Emerald\Emerald Launcher\Emerald Launcher\bin\Debug\System.Net.Http.Formatting.dll
+D:\Emerald\Emerald Launcher\Emerald Launcher\bin\Debug\YandexDisk.Client.dll
+D:\Emerald\Emerald Launcher\Emerald Launcher\bin\Debug\JetBrains.Annotations.xml
+D:\Emerald\Emerald Launcher\Emerald Launcher\bin\Debug\Newtonsoft.Json.pdb
+D:\Emerald\Emerald Launcher\Emerald Launcher\bin\Debug\Newtonsoft.Json.xml
+D:\Emerald\Emerald Launcher\Emerald Launcher\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\Emerald Launcher.csprojAssemblyReference.cache
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\Emerald_Launcher.Form1.resources
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\Emerald Launcher.csproj.GenerateResource.cache
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\JetBrains.Annotations.dll
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\YandexDisk.Client.dll
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\JetBrains.Annotations.xml
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\Emerald Launcher.csproj.CopyComplete
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\GreenTown Project.exe.config
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\GreenTown Project.exe
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\GreenTown Project.pdb
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\GreenTown_Project.Properties.Resources.resources
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\GreenTown Project.exe
+C:\Users\lanak\OneDrive\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\GreenTown Project.pdb
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\JetBrains.Annotations.dll
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\YandexDisk.Client.dll
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\JetBrains.Annotations.xml
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\Emerald Launcher.csprojAssemblyReference.cache
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\Emerald_Launcher.Form1.resources
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\Emerald Launcher.csproj.GenerateResource.cache
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\Emerald Launcher.csproj.CopyComplete
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\XSTYLE RP.exe.config
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\XSTYLE RP.exe
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\bin\Debug\XSTYLE RP.pdb
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\XSTYLE_RP_by_Denis_Malahovskiy.Properties.Resources.resources
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\XSTYLE RP.exe
+C:\Users\lanak\Desktop\Новая папка (3)\Emerald Launcher\obj\Debug\XSTYLE RP.pdb
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\bin\Debug\JetBrains.Annotations.dll
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\bin\Debug\YandexDisk.Client.dll
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\bin\Debug\JetBrains.Annotations.xml
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\obj\Debug\Emerald Launcher.csprojAssemblyReference.cache
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\obj\Debug\Emerald_Launcher.Form1.resources
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\obj\Debug\Emerald Launcher.csproj.GenerateResource.cache
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\obj\Debug\Emerald Launcher.csproj.CopyComplete
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\bin\Debug\RedVine RP.exe.config
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\bin\Debug\RedVine RP.exe
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\bin\Debug\RedVine RP.pdb
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\obj\Debug\REDVINE_RP_by_Denis_Malahovskiy.Properties.Resources.resources
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\obj\Debug\RedVine RP.exe
+C:\Users\lanak\Desktop\Новая папка (3)\redvine\Emerald Launcher\obj\Debug\RedVine RP.pdb
+L:\redline\Emerald Launcher\obj\Debug\Emerald Launcher.csprojAssemblyReference.cache
+L:\redline\Emerald Launcher\obj\Debug\Emerald_Launcher.Form1.resources
+L:\redline\Emerald Launcher\obj\Debug\Emerald Launcher.csproj.GenerateResource.cache
+L:\redline\Emerald Launcher\bin\Debug\JetBrains.Annotations.dll
+L:\redline\Emerald Launcher\bin\Debug\Newtonsoft.Json.dll
+L:\redline\Emerald Launcher\bin\Debug\System.Net.Http.Formatting.dll
+L:\redline\Emerald Launcher\bin\Debug\YandexDisk.Client.dll
+L:\redline\Emerald Launcher\bin\Debug\JetBrains.Annotations.xml
+L:\redline\Emerald Launcher\bin\Debug\Newtonsoft.Json.pdb
+L:\redline\Emerald Launcher\bin\Debug\Newtonsoft.Json.xml
+L:\redline\Emerald Launcher\bin\Debug\System.Net.Http.Formatting.xml
+L:\redline\Emerald Launcher\obj\Debug\Emerald Launcher.csproj.CopyComplete
+L:\redline\Emerald Launcher\bin\Debug\RedLine RP.exe.config
+L:\redline\Emerald Launcher\bin\Debug\RedLine RP.exe
+L:\redline\Emerald Launcher\bin\Debug\RedLine RP.pdb
+L:\redline\Emerald Launcher\obj\Debug\RedLine_RP.Properties.Resources.resources
+L:\redline\Emerald Launcher\obj\Debug\RedLine RP.exe
+L:\redline\Emerald Launcher\obj\Debug\RedLine RP.pdb
